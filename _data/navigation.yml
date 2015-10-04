@@ -1,0 +1,10 @@
+# Menu navigation links
+
+- title: Projects
+  url: /projects/
+
+- title: Reading List
+  url: /reading-list/
+
+- title: Markdown Editor
+  url: http://ucai.link/md
